@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+[[mods]]
+modId="summon_mutant_magic_addon"
+version="1.0"
+displayName="Summon Mutant Magic Addon"
+authors="Darkness"
+description='''Addon que adiciona magias e summons mutantes'''

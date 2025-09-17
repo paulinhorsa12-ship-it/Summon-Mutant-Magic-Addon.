@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="summonmutantmagicaddon"
+version="1.0.0"
+displayName="Summon Mutant Magic Addon"
+description='''
+Addon que adiciona summons e magias novas integradas com Mutant Monsters e Iron Spellbook.
+'''
