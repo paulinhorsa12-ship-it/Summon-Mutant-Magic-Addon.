@@ -1,6 +1,7 @@
+
 {
   "pack": {
-    "description": "Summon Mutant Magic Addon Resources",
-    "pack_format": 15
+    "pack_format": 15,
+    "description": "Summon Mutant Magic Addon resources"
   }
 }
