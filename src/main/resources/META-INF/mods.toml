@@ -1,17 +1,9 @@
-
 modLoader="javafml"
 loaderVersion="[47,)"
-license="All Rights Reserved"
+license="MIT"
 
 [[mods]]
-modId="summonmutantmagic"
-version="1.0"
+modId="summon_mutant_magic_addon"
+version="1.0.0"
 displayName="Summon Mutant Magic Addon"
-description="Addon que adiciona summons mutantes e magias ao Iron's Spellbooks."
-
-[[dependencies.summonmutantmagic]]
-modId="forge"
-mandatory=true
-versionRange="[47,)"
-ordering="NONE"
-side="BOTH"
+description="Addon que invoca mutantes com magia"
